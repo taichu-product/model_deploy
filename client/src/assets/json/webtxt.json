@@ -1,0 +1,28 @@
+{
+    "introduce": {
+        "chinese": [
+        "人工智能部主要承担“神威·太湖之光”超算平台上，针对于人工智能领域的相关算法研究与应用开发的工作。",
+        "本部门的研发团队主要由清华大学、香港大学等知名院校的博士、硕士研究生以及拥有多年人工智能领域研发经验的专家、博士后组成。",
+        "本部门针对于深度学习方向，提供了从底层硬件到上层软件的全方位支持，主要包括自主研发的人工智能硬件平台，自动并行化的深度学习中间层表示，主流深度学习框架Caffe、TesorFlow、MXNet的适配，以及典型深度学习应用的部署与优化：语音识别、图像处理、云分类、生物分子重构等。",
+        "本部门在对传统人工智能领域进行支持与优化的同时，将高性能计算以及计算机体系结构的相关研究领域也作为本部门的研发重点，旨在提高硬件资源的利用效率，从而更好地支撑人工智能领域应用的开发与部署。 "
+        ],
+        "english": [
+        "The Artificial Intelligence team mainly undertakes the research and application development of related algorithms in the field of Artificial Intelligence on the super-computer platform of “Sunway TaihuLight”. ",
+        "The RD team is mainly composed of doctors and master students from famous universities such as Tsinghua University and The University of Hong Kong, as well as experts and postdoctoral fellows who have many years of experience in Artificial Intelligence research and development. ",
+        "The team provides comprehensive support from the underlying hardware to the upper layer software for Deep Learning. It mainly includes self-developed Artificial Intelligence hardware platform, automatic parallelization Deep Learning middle layer representation, Deep Learning framework Caffe, TesorFlow, MXNet Adaptation and deployment and optimization of typical Deep Learning applications: speech recognition, image processing, cloud classification, biomolecular reconstruction, etc. ",
+        "While supporting and optimizing the traditional artificial intelligence field, the team also regards the research fields of high-performance computing and computer architecture. The aim of the team is to improve the utilization efficiency of hardware resources and better support the development and deployment of applications in the field of Artificial Intelligence. "
+        ]
+    },
+    "memberList":[{
+        "img":"../assets/p1.jpg",
+        "name":"Ginny",
+        "des":"A web designer & developer. Think that science is a kind of art."
+    }],
+    "linkList":[{
+        "name":"Stanford-NLP",
+        "link":"http://web.stanford.edu/class/cs224n/"
+      },{
+        "name":"Deep-Learning",
+        "link":"https://www.coursera.org/specializations/deep-learning"
+    }]
+}
